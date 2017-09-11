@@ -1,6 +1,6 @@
 # ICP2017F
 Intro to Computer Programming Fall 2017 :+1: :rocket:
-hello
+
 **NAME:** Cameron Arellano 
 
 **UTEID:** cka435
