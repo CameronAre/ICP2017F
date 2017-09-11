@@ -13,14 +13,20 @@ Intro to Computer Programming Fall 2017 :+1: :rocket:
 
 **Level:** Undergraduate - Freshman
 
-add image
+![thing](https://pbs.twimg.com/profile_images/649316673472692224/1PoSTWpK.png)
 
 **Description of the project's content.**
 
-This project contains homework, quizzes, and exams for the ICP Fall 2017 course.
+This project contains homework, quizzes, and exams for the ICP Fall 2017 course and is structured as follows.
 
-   __Homework:__ more information will be added over time
+   __Homework:__ 
+   This directory contains all my homework submissions, each of which is a folder properly named with the homework number, containing the homework submission.
 
-   __Quizzes:__ more information will be added over time
+   __Quizzes:__ This directory contains all my quiz submissions, each of which is a folder properly named with the quiz number, containing the quiz submission.
 
-   __Exams:__ more information will be added over time
+   __Exams:__ This directory contains all my exam submissions, each of which is a folder properly named with the exam number, containing the exam submission.
+
+For questions and troubleshooting, contact:
+
+Cameron Arellano
+cameronarellano@utexas.edu
