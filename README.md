@@ -19,12 +19,12 @@ Intro to Computer Programming Fall 2017 :+1: :rocket:
 
 This project contains homework, quizzes, and exams for the ICP Fall 2017 course and is structured as follows.
 
-   __Homework:__ 
+   [__Homework:__](./Homework) 
    This directory contains all my homework submissions, each of which is a folder properly named with the homework number, containing the homework submission.
 
-   __Quizzes:__ This directory contains all my quiz submissions, each of which is a folder properly named with the quiz number, containing the quiz submission.
+   [__Quizzes:__] (./Quiz)This directory contains all my quiz submissions, each of which is a folder properly named with the quiz number, containing the quiz submission.
 
-   __Exams:__ This directory contains all my exam submissions, each of which is a folder properly named with the exam number, containing the exam submission.
+  [__Exams:__](./Exam) This directory contains all my exam submissions, each of which is a folder properly named with the exam number, containing the exam submission.
 
 For questions and troubleshooting, contact:
 
