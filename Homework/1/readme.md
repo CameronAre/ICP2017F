@@ -1,7 +1,28 @@
-**A**
+**A**  
+$ git checkout -b test1
+Switched to a new branch 'test1'
+D       test/test.md
 
-**B**
+$ git checkout master
+Switched to branch 'master'
+D       test/test.md
+Your branch is behind 'origin/master' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
 
-**C**
+$ git checkout -b test2
+Switched to a new branch 'test2'
+D       test/test.md
 
-**D**
+
+**B. C. D.**
+
+$ vim test.txt
+
+$ git commit -a
+[test1 57f2932] D on homework
+ 1 file changed, 3 deletions(-)
+ delete mode 100644 test/test.md
+
+**E**
+
+Both branches contain the file. I am assuming that this is because the branches are both from the master.
