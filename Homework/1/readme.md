@@ -23,6 +23,21 @@ $ git commit -a
  1 file changed, 3 deletions(-)
  delete mode 100644 test/test.md
 
+
 **E**
 
 Both branches contain the file. I am assuming that this is because the branches are both from the master.
+
+
+**F. G.**
+
+There was no error when checking out test1.  This is because both branches were changing the same file.
+
+
+**H. I.**
+
+Merging from test1 to master worked and prompted a fast-forward message.  The master branch now has the test.md file.
+
+
+**J**
+
