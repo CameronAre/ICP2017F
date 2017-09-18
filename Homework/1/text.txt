@@ -1,2 +1,3 @@
-this is example text for test1
-
+<<<<<<< HEAD
+merge be happy!
+>>>>>>> test2
