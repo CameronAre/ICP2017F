@@ -70,8 +70,9 @@
  
  **5**
  
- a = 2*eye(3)
- a = 
+ a = 2*eye(3);
+ a = diag([2,2,2]);
+ b = a + zeros(3);
  
  
  **6**
@@ -79,5 +80,12 @@
  Reasons for error included on script file
  
  
+ **7**
  
  
+ 
+ 
+ 
+ **8**
+ 
+ It gives an unnamed function or variable error because the myscript.m file is not in the directory.
