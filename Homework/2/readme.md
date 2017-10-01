@@ -67,7 +67,17 @@
  7. [5,0;10,5]
  8. [5,0;10,5]
  
+ 
  **5**
+ 
+ a = 2*eye(3)
+ a = 
+ 
+ 
+ **6**
+ 
+ Reasons for error included on script file
+ 
  
  
  
