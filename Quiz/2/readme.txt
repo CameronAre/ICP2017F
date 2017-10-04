@@ -34,7 +34,8 @@
   This is because MATLAB stores arrays in memory column wise and calling c{2} gives the cell in the second memory spot.
 
 10.
-  MATLAB uses column-wise data storage, which means that information in matrices get stored by vertical position not horizontal position.  
+  MATLAB uses column-wise data storage, which means that information in matrices get stored by vertical position not horizontal 
+  position.  
   It follows this storage method because it inherited it from it's ancestor language, Fortran.
 
 11.
