@@ -1,0 +1,1 @@
+integ = @(a,b,c) integral(x^2 + c*x + 1, a, b);
